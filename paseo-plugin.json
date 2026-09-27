@@ -1,0 +1,5 @@
+{
+  "id": "canvas",
+  "description": "Canvas: every workspace on one map — parents and children, merge order, and which one needs you first",
+  "requirements": { "paseo": ">=0.9.0" }
+}
